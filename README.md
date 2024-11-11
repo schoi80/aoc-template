@@ -26,9 +26,10 @@ This repository contains starter templates for both Java and Python versions of 
 - Log into [Advent of Code](https://adventofcode.com/) using your preferred SSO
 - Navigate to https://adventofcode.com/2024/leaderboard/private and use `3216025-2e1447df` to join Apollo's private leaderboard.
 
-Choose your programming language: Java or Python
+### Choose your programming language: Java or Python
 Review the sample code and project structure
-Start solving puzzles on December 1st!
+
+### Start solving puzzles on December 1st!
 Join Us!
 We invite all members of our engineering organization to participate in Advent of Code. It's a great way to bond with colleagues, learn new skills, and have fun while doing it. Let's make this holiday season one to remember!
 
