@@ -5,7 +5,6 @@ Advent of Code (AoC) is an annual coding challenge that takes place during the h
 The basic idea behind AoC is simple: for 25 days, starting on December 1st, you'll receive a new puzzle to solve every morning. These puzzles are usually related to programming, algorithms, or data structures, and they're designed to be challenging but solvable within a reasonable amount of time.
 
 ### Apollo Engineering ❤️ Advent of Code
-By incorporating Advent of Code into our engineering organization's activities, we can:
 
 - **Foster a culture of learning and collaboration** : AoC encourages teamwork, open communication, and mutual support, which are essential skills for any successful engineering team.
 - **Develop problem-solving skills** : By tackling challenging puzzles every day, participants will improve their ability to think critically, approach problems from different angles, and find creative solutions.
