@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+
+*.pyc
+*.pyo
+**/__pycache__/
